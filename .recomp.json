@@ -1,0 +1,15 @@
+{
+  "game": "Scud Race",
+  "system": "Arcade",
+  "type": "recomp",
+  "status": "released",
+  "targets": ["Wii"],
+  "toolchain": "WiiRevs",
+  "project": "Scud Race for Wii",
+  "approach": "Sega Model 3 PowerPC 603e and 68000 sound programs statically translated to C; Real3D graphics and sound recreated at a high level on the Wii",
+  "notes": "Runs natively on a real Wii, launched with the Homebrew Channel. Sideways Wii Remote with tilt steering, Classic Controller and GameCube controller; rumble; optional widescreen; 480p.",
+  "tags": ["sega", "model3", "racing", "wii"],
+  "maintainers": [{ "name": "WiiRevs", "link": "https://wiirevs.com" }],
+  "links": [{ "label": "WiiRevs", "url": "https://wiirevs.com" }],
+  "launchers": [{ "path": "scud.zip", "in": "release", "format": "zip" }]
+}
