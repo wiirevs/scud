@@ -1,6 +1,12 @@
 {
   "game": "Scud Race",
   "wikidata": "Q1751719",
+  "original": [
+    {
+      "region": "World",
+      "revision": "Twin/DX (MAME: scud)"
+    }
+  ],
   "system": "Arcade",
   "type": "recomp",
   "status": "released",
