@@ -19,6 +19,8 @@ WiiRevs doesn't include or link to any game ROMs. You need the game's ROM files,
 3. Copy your ROM files into `sd:/wiirevs/scud/`.
 4. Start Scud Race from the Homebrew Channel.
 
+No room on the card? The game's folder can go on a USB drive instead, as `usb1:/wiirevs/scud/` (the app stays on the SD card). When both have it, the SD card's is used.
+
 The game checks its files when it starts and lists any that are missing or wrong.
 
 ## Feedback
